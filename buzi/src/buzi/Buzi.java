@@ -27,6 +27,7 @@ static int nastepnyID = 0;
     {
         
         nastepnyID++;
+int a=5;
         ID = nastepnyID;
     }
     Pracownicy(String imie, String nazwisko)
